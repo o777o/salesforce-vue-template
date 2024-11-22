@@ -144,7 +144,7 @@ request('ControllerMethod', [...args])
 </script>
 ```
 
-参考[example](https://github.com/o777o/salesforce-vue-template/src/request/message.ts)
+参考[example](https://github.com/o777o/salesforce-vue-template/blob/master/src/request/message.ts)
 
 ## Project Setup
 
